@@ -15,8 +15,6 @@ src: url(BRUSHSTP.ttf);
 .table thead tr  {
     font-weight: bold;
      border-radius: 25px;
-    background: #73AD21;
-    color:#fff;
     height:40px;
 }
 tr:nth-child(odd)		{ background-color:#eee; }
